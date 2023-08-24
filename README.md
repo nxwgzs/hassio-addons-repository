@@ -31,6 +31,7 @@ Use the following URL to add this repository:
 
 ```txt
 https://github.com/hassio-addons/repository
+https://github.com/nxwgzs/hassio-addons-repository
 ```
 
 ## Add-ons provided by this repository
